@@ -19,6 +19,7 @@ Each sample contains:
 
 - Label (class)
 - 784 pixel values (28 × 28 grayscale image)
+- Link Dataseet : https://www.kaggle.com/datasets/datamunge/sign-language-mnist/data
 
 ---
 
