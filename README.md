@@ -1,11 +1,5 @@
 # 🤟 Sign Language Recognition using CNN
 
-
-
-<p align="center">
-  <img src="Results/amer_sign2.png" alt="ASL Alphabet" width="900">
-</p>
-
 A deep learning project that recognizes American Sign Language (ASL) hand gestures using a Convolutional Neural Network (CNN) trained on the Sign Language MNIST dataset.
 
 ## 📌 Project Overview
@@ -113,6 +107,10 @@ hand_sign_detection_proj.ipynb
 - Support all ASL alphabet letters.
 - Model deployment using Streamlit or Flask.
 - Mobile application integration.
+---
+<p align="center">
+  <img src="Results/amer_sign2.png" alt="ASL Alphabet" width="900">
+</p>
 
 ---
 
